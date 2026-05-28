@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EternalRealms.Application/EternalRealms.Application.csproj" />
+    <Project Path="src/EternalRealms.Core/EternalRealms.Core.csproj" />
+    <Project Path="src/EternalRealms.Infrastructure/EternalRealms.Infrastructure.csproj" />
+    <Project Path="src/EternalRealms.UI.Console/EternalRealms.UI.Console.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EternalRealms.Application.Tests/EternalRealms.Application.Tests.csproj" />
+    <Project Path="tests/EternalRealms.Core.Tests/EternalRealms.Core.Tests.csproj" />
+    <Project Path="tests/EternalRealms.IntegrationTests/EternalRealms.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
